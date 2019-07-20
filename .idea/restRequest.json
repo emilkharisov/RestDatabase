@@ -1,0 +1,9 @@
+{
+  "uri": "http:///users",
+  "method": "POST",
+  "body": "{\n \"login\" : \"test\" ,\n \"password\" : \"test\"\n}",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json"
+  }
+}
